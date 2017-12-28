@@ -1,10 +1,10 @@
 <?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
 
 $arComponentDescription = array(
-    'NAME' => 'F5 instagram feed',
-    'DESCRIPTION' => 'F5 IF',
+    'NAME' => 'instagram feed',
+    'DESCRIPTION' => '',
     "PATH" => array(
-        'ID' => 'F5',
-        'NAME' => 'F5',
+        'ID' => 'newcomponents',
+        'NAME' => 'newcomponents',
     ),
 );
